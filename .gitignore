@@ -1,0 +1,30 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+
+# Python files to ignore
+*.pyc
+*.pyo
+*.db
+pip-log.txt
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+nbproject
+thumbs.db
+
+# Folders to ignore
+.hg
+.svn
+publish
+.idea
